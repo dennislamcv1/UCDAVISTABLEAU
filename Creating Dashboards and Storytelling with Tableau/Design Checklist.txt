@@ -1,0 +1,15 @@
+What is/are the business question(s) this project will answer?
+
+Review of the company discount policy
+
+What data will be used to answer this question?  Is the data capable of providing the information you are looking for? 
+
+Relationship between discounted sales and profit, and how much the company is profiting or losing based on discounted sales. The data has the information.
+
+Who is the audience of this visualization (to whom are these findings ultimately being presented)?
+
+Board members
+
+How will your findings ultimately be displayed?  Please list any special requirements of the user.
+
+Slide presentation
